@@ -19,3 +19,17 @@ This repository documents my learning journey in software development, Git and G
 - Develop web applications.
 - Understand software development practices.
 - Build real-world projects.
+
+## Activity 3 – GitHub Fundamentals I
+
+Completed the following tasks:
+
+- Created a public GitHub repository.
+- Prepared a README file.
+- Practised separate commits.
+- Pushed changes to GitHub.
+- Verified repository visibility and commit history.
+
+## Conclusion
+
+This repository documents my academic activities, projects and progress in software development.
