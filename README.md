@@ -33,3 +33,17 @@ Completed the following tasks:
 ## Conclusion
 
 This repository documents my academic activities, projects and progress in software development.
+
+## Projects
+
+### Project 1: Vehicle Rental Management System
+- Description: A web-based system for managing vehicle rentals, reservations, customers and payments.
+- Technologies: HTML, CSS and JavaScript.
+
+### Project 2: IPL Ticket Booking System
+- Description: A website for browsing IPL matches and booking cricket tickets.
+- Technologies: HTML and CSS.
+
+### Project 3: Student Performance Prediction
+- Description: An academic project idea to explore and predict student performance using data.
+- Technologies: Python and Machine Learning.
